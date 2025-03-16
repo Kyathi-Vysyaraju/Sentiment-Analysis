@@ -70,3 +70,7 @@ The trained model is tested on the unseen test data.
 It predicts whether each review is positive or negative.
 The model's accuracy is measured by comparing predictions with the actual sentiments.
 A classification report is generated, showing precision, recall, and F1-score, which help analyze how well the model performed.
+
+# Output
+
+![Image](https://github.com/user-attachments/assets/cb465f19-1799-4055-95cb-3dfcc7db79e3)

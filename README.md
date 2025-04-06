@@ -1,17 +1,5 @@
 # Sentiment-Analysis
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: Kyathi Vysyaraju
-
-*INTERN ID*: CT04WV85
-
-*DOMAIN*: DATA ANALYTICS
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 ### Install Required Libraries
 Before starting, you need to install the necessary Python libraries:
 pandas: For handling and processing structured data (like Excel files).
